@@ -21,8 +21,8 @@
 # Links
 **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark++)** <br>
 **<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases/download/Dark%2Bv2/Dark+-Default-Member-List.theme.css">Download Dark+ with Defualt Memberlist</a>** <br>
-**[Website](https://devevil.com)** <br>
-**[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
+**[Website](https://instabio.cc/babaalfa)** <br>
+**[Support Server](https://discord.gg/XpuNszK)** <br>
 **[Contact](https://devevil.com/contact)** <br>
 
-**Made with 💜 by [DevEvil#8745](https://devevil.com/)**
+**Made with 💜 by [babaalfa](https://instabio.cc/babaalfa)**
